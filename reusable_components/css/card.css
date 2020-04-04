@@ -1,10 +1,8 @@
-body {
-  text-align: center;
-}
-.related {
-  width: 60%;
-  margin-left: 20%;
-}
+/*
+Modify mainClass variable to change the highest parent class name.
+@important : the card takes 50% of it's parent, unless you want a specific width this should works fine,
+if you want, change the @mainClass width from 47% to wwhatever you want , with margin respectivly
+*/
 .card {
   border-top: 5px solid #e74c3c;
   position: relative;
